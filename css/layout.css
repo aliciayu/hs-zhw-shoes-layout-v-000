@@ -59,6 +59,10 @@
   background: transparent;
 }
 
+.first {
+  margin-left: 0%;
+}
+
 [class*=""] {
   margin-left: 2%;
 }
