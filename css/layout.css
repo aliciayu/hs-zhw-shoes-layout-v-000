@@ -46,7 +46,7 @@
 
 .col-4 {
   float: left;
-  width: 32.33%;
+  width: 32%;
   margin: 2% 2% 0 0;
   background: white;
   display: table-cell;
@@ -54,7 +54,7 @@
 
 .col-5 {
   float: left;
-  width: 32.33%;
+  width: 32%;
   margin: 2% 0 0 0;
   background: white;
   display: table-cell;
