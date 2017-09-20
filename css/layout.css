@@ -62,10 +62,11 @@
 
 .col-6 {
   float: left;
-  width: 33.33%;
+  width: 32%;
   margin: 0;
   padding: 0;
   background: transparent;
+  display: table-cell;
 }
 
 .first {
