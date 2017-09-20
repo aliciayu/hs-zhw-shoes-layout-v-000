@@ -45,10 +45,11 @@
 }
 
 .col-4 {
+  float: left;
+  width: 32.33%;
+  margin: 2% 2% 0 0;
+  background: white;
   display: table-cell;
-  text-align: center;
-  width: 30%;
-
 }
 
 .col-5 {
