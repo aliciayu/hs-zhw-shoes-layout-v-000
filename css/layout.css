@@ -53,6 +53,13 @@
 
 .col-5 {
   float: left;
+  width: 31.33%;
+  margin: 2% 0 0 0;
+  background: white;
+}
+
+.col-6 {
+  float: left;
   width: 33.33%;
   margin: 0;
   padding: 0;
