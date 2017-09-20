@@ -24,27 +24,27 @@
 
 /* Posititoning Classes */
 
-.col-1 {
+.col2_left {
   float: left;
   width: 100%;
   margin: 1em auto;
 }
 
-.col-2 {
+.col1_mid {
   float: left;
   width: 66%;
   margin: 0;
   background: white;
 }
 
-.col-3 {
+.col2_right {
   float: left;
   width: 32%;
   margin: 0 0 0 2%;
   background: white;
 }
 
-.col-4 {
+.col1_left {
   float: left;
   width: 32%;
   margin: 2% 2% 0 0;
@@ -52,7 +52,7 @@
   display: table-cell;
 }
 
-.col-5 {
+.col1_right {
   float: left;
   width: 32%;
   margin: 2% 0 0 0;
